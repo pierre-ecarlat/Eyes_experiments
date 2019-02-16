@@ -1,2 +1,2 @@
 # Eyes_experiments
-Experiments on eye movements interpretation
+Experiments on eye movements interpretation. This will be part of a bigger project later, but as a starting point, it will be very highly inspired from the work of Julien Despois (check his [awesome blog here](https://ai-odyssey.com)). Huge thanks to him.
